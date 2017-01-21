@@ -6,3 +6,18 @@ body {
   background-color: purple;
   color: white;
 }
+
+#animals {
+  max-height: 300px;
+  max-width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+  border: solid white 2px;
+  padding: 2px;
+}
+
+#animals-div {
+  margin-top: 5%;
+}
